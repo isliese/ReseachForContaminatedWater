@@ -11,3 +11,18 @@
 ###### 
 <img src="https://github.com/user-attachments/assets/83a17491-f703-4d46-b78d-c4b807f70b4c" height="400"/>
 
+##### 언어 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
+##### 사용 라이브러리 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+##### IDE
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
+
+
+##### 팀원 
+
+<h5>숙명여자대학교 인공지능공학부 23학번 김찬란 <br>
+숙명여자대학교 인공지능공학부 23학번 이연진 <br>
+숙명여자대학교 인공지능공학부 23학번 한은정 <br> </h5>
