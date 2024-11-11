@@ -5,6 +5,8 @@
 
 ##### Google Colab Link : [Click here to see](https://colab.research.google.com/drive/1bVtheUJNO25rPc89fACe9mevZ3mSk65A?usp=sharing)
 
-![image](https://github.com/user-attachments/assets/90135fc6-b181-4308-a2ae-ae3586327751)
+
+<img src="https://github.com/user-attachments/assets/90135fc6-b181-4308-a2ae-ae3586327751"  width="200" height="400"/>
 ###### 
-![image](https://github.com/user-attachments/assets/83a17491-f703-4d46-b78d-c4b807f70b4c)
+<img src="https://github.com/user-attachments/assets/83a17491-f703-4d46-b78d-c4b807f70b4c"  width="200" height="400"/>
+
